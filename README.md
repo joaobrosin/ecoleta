@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img  width="600px" src="public/assets/layout.png">
+    <img src="public/assets/layout.png">
 </div>
 
 # Indice
