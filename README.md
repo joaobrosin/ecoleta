@@ -14,7 +14,7 @@
 ---
 
 ## 📝 About
-The **Ecoleta** project is a platform developed during the **Next Level Week** of [Rocketseat](https://rocketseat.com.br). It was my first contact with data bank.
+The **Ecoleta** project is a platform to facilitate garbage collection. The project was developed during the **Next Level Week** of [Rocketseat](https://rocketseat.com.br). It was my first contact with data bank.
 
 ---
 
