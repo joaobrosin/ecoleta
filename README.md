@@ -3,33 +3,33 @@
 </div>
 
 <div align="center">
-    <img src="public/assets/layout.png">
+    <img src="public/assets/ecoleta-layout.gif">
 </div>
 
-# Indice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-e-ferramentas-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+# Table of Contents
+- [About](#-about)
+- [Technologies](#-technologies)
+<!-- - [Installation](#-installation) -->
 
 ---
 
-## 📝 Sobre
-O projeto **Ecoleta** é um projeto que foi elaborado elaborado durante a **Next Level Week** da [Rocketseat](https://rocketseat.com.br). Foi um dos meus primeiros contatos com banco de dados.
+## 📝 About
+The **Ecoleta** project is a platform developed during the **Next Level Week** of [Rocketseat](https://rocketseat.com.br). It was my first contact with data bank.
 
 ---
 
-## 🚀 Tecnologias e ferramentas utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+## 🚀 Technologies
+The project was developed with the following technologies: 
 
 - HTML
 - CSS
+- JavaScript
 - Node.js
 - Nunjucks
-- JavaScript
 
 ---
 
-## 👇 Como baixar o projeto
+<!-- ## 👇 Como baixar o projeto
 ```bash
     # Clonar o repositório
     $ git clone https://github.com/joaobrosin/ecoleta
@@ -43,6 +43,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     # Iniciar o projeto
     $ yarn start
 ```
----
+--- -->
 
-Desenvolvido por ***João Brosin***.
+Made with 💙 by ***João Brosin***.
